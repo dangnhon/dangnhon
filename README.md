@@ -9,7 +9,7 @@ When I'm not coding, I take time to:
   
 - Enjoy reading fiction
 - Be in nature and hike
-- Travel
+- Travel and explore the world
 - Hit the gym
 - Play story driven video-games
 _________________________________________________________________________________________________________________________________________________________________
