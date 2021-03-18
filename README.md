@@ -13,19 +13,23 @@ When I'm not coding, I take time to:
 - Hit the gym
 - Play story driven video-games
 
-____________________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________________
 SKILLS 
 
--Javascript
--Ruby
--HTML5
--CSS
--React.js
--Ruby on Rails
--Bootstrap
--Sqlite
--Postgres
+- Javascript
+- Ruby
+- HTML5
+- CSS
+- React.js
+- Ruby on Rails
+- Bootstrap
+- Sqlite
+- Postgres
 
+_________________________________________________________________________________________________________________________________________________________________
+LINKS 
+
+- LinkedIn
 <!---
 dangnhon/dangnhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
