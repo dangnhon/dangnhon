@@ -12,7 +12,6 @@ When I'm not coding, I take time to:
 - Travel
 - Hit the gym
 - Play story driven video-games
-
 _________________________________________________________________________________________________________________________________________________________________
 SKILLS 
 
@@ -25,12 +24,16 @@ SKILLS
 - Bootstrap
 - Sqlite
 - Postgres
+_________________________________________________________________________________________________________________________________________________________________
+STATS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangnhon)](https://github.com/anuraghazra/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________________________________
 LINKS 
 
 - [LinkedIn](https://www.linkedin.com/in/dangnhon/)
 - [Blog](https://dang-nhon.medium.com/)
+
 <!---
 dangnhon/dangnhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
