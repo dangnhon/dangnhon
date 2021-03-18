@@ -29,7 +29,8 @@ SKILLS
 _________________________________________________________________________________________________________________________________________________________________
 LINKS 
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/dangnhon/)
+- [Blog](https://dang-nhon.medium.com/)
 <!---
 dangnhon/dangnhon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
