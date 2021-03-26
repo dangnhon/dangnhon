@@ -3,7 +3,7 @@
 
 ABOUT ME
 
-I'm a full stack developer who has a background in medicine. I love front-end development and am always eager to dive deeper into back-end development as well. My passion for learning and adding skills to my tool belt is what drives me to hone my craft each day. My goal is to produce qaulity work and help solve problems to bring value to others. 
+I'm a full stack developer who has a background in medicine and customer service. I'm a full Stack Engineer and am always eager to dive deeper into mew technologies to continue my growth. My passion for learning and adding skills to my tool belt is what drives me to hone my craft each day. My goal is to produce qaulity work and help solve problems to bring value to others. 
 
 When I'm not coding, I take time to:
   
