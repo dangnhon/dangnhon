@@ -3,7 +3,7 @@
 
 ABOUT ME
 
-I'm a full stack developer who has a background in medicine and customer service. I'm a full Stack Engineer and am always eager to dive deeper into mew technologies to continue my growth. My passion for learning and adding skills to my tool belt is what drives me to hone my craft each day. My goal is to produce qaulity work and help solve problems to bring value to others. 
+I'm a full stack Engineer who has a background in medicine and customer service. Having worked on and building Front-end and Back-end applications, I'm always eager to dive deeper into mew technologies to facilitate my knowledge and growth. My passion for learning and adding skills to my tool belt is what drives me to hone my craft each day. My goal is to produce qaulity work and help solve problems to bring value to others. 
 
 When I'm not coding, I take time to:
   
